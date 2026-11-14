@@ -1,0 +1,6 @@
+# Local QA runs, caches, and third-party decompiler binaries
+local/
+tools/ffdec/
+__pycache__/
+*.py[cod]
+*.tmp
